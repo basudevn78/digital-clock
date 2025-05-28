@@ -10,7 +10,7 @@ A stylish digital clock made with Python's `tkinter` GUI library.
 - Auto-updates every second
 - Clean and non-resizable window
 
-## Screenshot
+## SAMPLE OUTPUT
 
 ![screenshot](digital_clock_Output.png) 
 
